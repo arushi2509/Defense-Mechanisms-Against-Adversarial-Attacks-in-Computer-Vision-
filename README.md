@@ -1,4 +1,4 @@
-# Defense Mechanisms Against Adversarial Attacks in Computer Visio
+# Defense Mechanisms Against Adversarial Attacks in Computer Vision
 
 This project focuses on the implementation of a deep convolutional neural network (CNN) using the ResNet18 architecture to classify images from the CIFAR-10 dataset. Additionally, we explored adversarial attacks on the trained model and implemented defense mechanisms to counteract these attacks.
 
@@ -16,7 +16,8 @@ This project focuses on the implementation of a deep convolutional neural networ
   - 50,000 training images
   - 10,000 testing images
 
-![CIFAR-10 images](path_to_image/fig1.png)
+![CIFAR-10 images](![image](https://github.com/arushi2509/Defense-Mechanisms-Against-Adversarial-Attacks-in-Computer-Vision-/assets/69112495/efbff6bd-c0a8-4f77-8a83-7da922ee056d)
+)
 
 ## Model
 
