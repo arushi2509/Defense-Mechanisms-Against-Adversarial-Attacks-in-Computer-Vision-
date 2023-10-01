@@ -17,7 +17,7 @@ This project focuses on the implementation of a deep convolutional neural networ
   - 10,000 testing images
 
 <p align="center">
-  <img width="460" height="300" src="![cifar10](https://github.com/arushi2509/Defense-Mechanisms-Against-Adversarial-Attacks-in-Computer-Vision-/assets/69112495/f3d3b896-6780-4ae3-83dd-07a94832f83c)
+  <img src="![cifar10](https://github.com/arushi2509/Defense-Mechanisms-Against-Adversarial-Attacks-in-Computer-Vision-/assets/69112495/f3d3b896-6780-4ae3-83dd-07a94832f83c)
 ">
 </p>
 
