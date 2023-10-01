@@ -14,8 +14,7 @@ CIFAR-10: 60,000 RGB images (32x32), with 10 classes such as frogs, horses, ship
 50,000 training images
 10,000 testing images
 <p align="center">
-  <img src="file:///cis/home/asinha22/Downloads/cifar10.png![image](https://github.com/arushi2509/Defense-Mechanisms-Against-Adversarial-Attacks-in-Computer-Vision-/assets/69112495/6365a1b1-e6ab-4abd-ae34-750acfb97a81)
-"/>
+ file:///cis/home/asinha22/Downloads/cifar10.png![image](https://github.com/arushi2509/Defense-Mechanisms-Against-Adversarial-Attacks-in-Computer-Vision-/assets/69112495/6365a1b1-e6ab-4abd-ae34-750acfb97a81)
 </p>
 
 
