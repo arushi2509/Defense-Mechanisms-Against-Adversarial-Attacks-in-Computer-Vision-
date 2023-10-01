@@ -31,7 +31,7 @@ This project focuses on the implementation of a deep convolutional neural networ
 
 Various attacks were implemented on the trained model, and their impact on model performance was observed:
 
-- **Noise Attacks** (with varying standard deviations): ![Noise Attacks](path_to_image/fig2.png)
+- **Noise Attacks** (with varying standard deviations): 
   - Stddev. 0.01 - Accuracy Drop: 0%
   - Stddev. 0.09 - Accuracy Drop: 8%
   - Stddev. 0.25 - Accuracy Drop: 32%
@@ -58,13 +58,6 @@ A defense mechanism was implemented against the Additive Gaussian Noise Attack:
   - Accuracy on original test set remained at 80%.
   - Accuracy on adversarial test set increased from 72% to 77%.
 
-## Visualizations
-
-1. **FGSM Attack Example** - Misclassification of a dog as a cat: 
-   ![FGSM Attack](path_to_image/fig3.png)
-  
-2. **Black Box Additive Gaussian Noise Attacks:**
-   ![Gaussian Noise Attack](path_to_image/fig4.png)
 
 ## Conclusion
 
