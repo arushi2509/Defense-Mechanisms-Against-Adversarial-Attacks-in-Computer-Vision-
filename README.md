@@ -13,7 +13,7 @@ This project focuses on the implementation of a deep convolutional neural networ
 CIFAR-10: 60,000 RGB images (32x32), with 10 classes such as frogs, horses, ships, trucks etc.
 50,000 training images
 10,000 testing images
-file:///cis/home/asinha22/Downloads/cifar10.png![image](https://github.com/arushi2509/Defense-Mechanisms-Against-Adversarial-Attacks-in-Computer-Vision-/assets/69112495/0c239990-7cc8-4104-8aca-dc5bb5c30cc5)
+![image](https://github.com/arushi2509/Defense-Mechanisms-Against-Adversarial-Attacks-in-Computer-Vision-/assets/69112495/0c239990-7cc8-4104-8aca-dc5bb5c30cc5)
 
 
 Model
