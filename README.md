@@ -7,7 +7,6 @@ This project focuses on the implementation of a deep convolutional neural networ
 - [Dataset](#dataset)
 - [Model](#model)
 - [Adversarial Attacks & Defense](#adversarial-attacks--defense)
-- [Visualizations](#visualizations)
 - [Conclusion](#conclusion)
 
 ## Dataset
