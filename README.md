@@ -54,7 +54,6 @@ Results with different epsilon values:
 A defense mechanism was implemented against the Additive Gaussian Noise Attack:
 
 - **Defense Strategy:** Adversarial training with gaussian noise.
-  - Accuracy on original test set remained at 80%.
   - Accuracy on adversarial test set increased from 72% to 77%.
 
 
